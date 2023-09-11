@@ -1,0 +1,631 @@
+Year,Category,Subcategory,Sub-subcategory, Total ," Food secure-1,000 ",Food secure-percent," Food insecure-1,000 ",Food insecure-percent," Low food security-1,000 ",Low food security-percent," Very low food security-1,000 ",Very low food security-percent
+2001,All households,,,"107,824","96,303",89.3,"11,521",10.7,"8,010",7.4,"3,511",3.3
+2001,Household composition,With children < 18 years,,"38,330","32,141",83.9,"6,189",16.1,"4,744",12.4,"1,445",3.8
+2001,Household composition,With children < 18 years,With children < 6 years,"16,858","13,920",82.6,"2,938",17.4,"2,304",13.7,634,3.8
+2001,Household composition,With children < 18 years,Married-couple families,"26,182","23,389",89.3,"2,793",10.7,"2,247",8.6,546,2.1
+2001,Household composition,With children < 18 years,"Female head, no spouse","9,080","6,185",68.1,"2,895",31.9,"2,101",23.1,794,8.7
+2001,Household composition,With children < 18 years,"Male head, no spouse","2,389","2,009",84.1,380,15.9,298,12.5,82,3.4
+2001,Household composition,With children < 18 years,Other household with child,678,555,81.9,123,18.1,99,14.6,24,3.5
+2001,Household composition,With no children < 18 years,,"69,495","64,163",92.3,"5,332",7.7,"3,266",4.7,"2,066",3
+2001,Household composition,With no children < 18 years,More than one adult,"40,791","38,328",94,"2,463",6,"1,595",3.9,868,2.1
+2001,Household composition,With no children < 18 years,Women living alone,"16,513","14,915",90.3,"1,598",9.7,952,5.8,646,3.9
+2001,Household composition,With no children < 18 years,Men living alone,"12,192","10,922",89.6,"1,270",10.4,718,5.9,552,4.5
+2001,Household composition,With elderly,,"24,836","23,458",94.5,"1,378",5.5,"1,002",4,376,1.5
+2001,Household composition,With elderly,Elderly living alone,"10,390","9,758",93.9,632,6.1,426,4.1,206,2
+2001,Race/ethnicity of households,White non-Hispanic,,"80,337","74,230",92.4,"6,107",7.6,"4,072",5.1,"2,035",2.5
+2001,Race/ethnicity of households,Black non-Hispanic,,"13,134","10,331",78.7,"2,803",21.3,"1,986",15.1,817,6.2
+2001,Race/ethnicity of households,Hispanic,,"9,864","7,717",78.2,"2,147",21.8,"1,613",16.4,534,5.4
+2001,Race/ethnicity of households,Other,,"4,489","4,026",89.7,463,10.3,339,7.6,124,2.8
+2001,Household income-to-poverty ratio,Under 1.00,,"11,693","7,426",63.5,"4,267",36.5,"2,763",23.6,"1,504",12.9
+2001,Household income-to-poverty ratio,Under 1.30,,"16,904","11,450",67.7,"5,454",32.3,"3,609",21.3,"1,845",10.9
+2001,Household income-to-poverty ratio,Under 1.85,,"25,395","18,316",72.1,"7,079",27.9,"4,811",18.9,"2,268",8.9
+2001,Household income-to-poverty ratio,1.85 and over,,"63,851","60,743",95.1,"3,108",4.9,"2,284",3.6,824,1.3
+2001,Household income-to-poverty ratio,Income unknown,,"18,579","17,245",92.8,"1,334",7.2,915,4.9,419,2.3
+2001,Area of residence,Inside metropolitan area,,"86,945","77,826",89.5,"9,119",10.5,"6,281",7.2,"2,838",3.3
+2001,Area of residence,Inside metropolitan area,In principal cities,"26,701","22,987",86.1,"3,714",13.9,"2,442",9.1,"1,272",4.8
+2001,Area of residence,Inside metropolitan area,Not in principal cities,"45,380","41,622",91.7,"3,758",8.3,"2,633",5.8,"1,125",2.5
+2001,Area of residence,Outside metropolitan area,,"20,879","18,476",88.5,"2,403",11.5,"1,730",8.3,673,3.2
+2001,Census geographic region,Northeast,,"20,320","18,656",91.8,"1,664",8.2,"1,176",5.8,488,2.4
+2001,Census geographic region,Midwest,,"25,063","22,805",91,"2,258",9,"1,502",6,756,3
+2001,Census geographic region,South,,"38,867","34,073",87.7,"4,794",12.3,"3,395",8.7,"1,399",3.6
+2001,Census geographic region,West,,"23,575","20,771",88.1,"2,804",11.9,"1,937",8.2,867,3.7
+2002,All households,,,"108,601","96,543",88.9,"12,058",11.1,"8,259",7.6,"3,799",3.5
+2002,Household composition,With children < 18 years,,"38,647","32,268",83.5,"6,379",16.5,"4,899",12.7,"1,480",3.8
+2002,Household composition,With children < 18 years,With children < 6 years,"17,073","14,039",82.2,"3,034",17.8,"2,450",14.4,584,3.4
+2002,Household composition,With children < 18 years,Married-couple families,"26,069","23,357",89.6,"2,712",10.4,"2,204",8.5,508,1.9
+2002,Household composition,With children < 18 years,"Female head, no spouse","9,496","6,456",68,"3,040",32,"2,212",23.3,828,8.7
+2002,Household composition,With children < 18 years,"Male head, no spouse","2,375","1,855",78.1,520,21.9,381,16,139,5.9
+2002,Household composition,With children < 18 years,Other household with child,707,599,84.7,108,15.3,102,14.4,6,0.8
+2002,Household composition,With no children < 18 years,,"69,954","64,276",91.9,"5,678",8.1,"3,360",4.8,"2,318",3.3
+2002,Household composition,With no children < 18 years,More than one adult,"41,538","38,929",93.7,"2,609",6.3,"1,651",4,958,2.3
+2002,Household composition,With no children < 18 years,Women living alone,"16,174","14,472",89.5,"1,702",10.5,985,6.1,717,4.4
+2002,Household composition,With no children < 18 years,Men living alone,"12,242","10,875",88.8,"1,367",11.2,724,5.9,643,5.3
+2002,Household composition,With elderly,,"24,791","23,229",93.7,"1,562",6.3,"1,099",4.4,463,1.9
+2002,Household composition,With elderly,Elderly living alone,"10,072","9,327",92.6,745,7.4,490,4.9,255,2.5
+2002,Race/ethnicity of households,White non-Hispanic,,"80,266","73,859",92,"6,407",8,"4,294",5.3,"2,113",2.6
+2002,Race/ethnicity of households,Black non-Hispanic,,"13,515","10,546",78,"2,969",22,"1,999",14.8,970,7.2
+2002,Race/ethnicity of households,Hispanic,,"10,344","8,099",78.3,"2,245",21.7,"1,654",16,591,5.7
+2002,Race/ethnicity of households,Other,,"4,475","4,038",90.2,437,9.8,313,7,124,2.8
+2002,Household income-to-poverty ratio,Under 1.00,,"11,515","7,128",61.9,"4,387",38.1,"2,736",23.8,"1,651",14.3
+2002,Household income-to-poverty ratio,Under 1.30,,"17,010","11,272",66.3,"5,738",33.7,"3,681",21.6,"2,057",12.1
+2002,Household income-to-poverty ratio,Under 1.85,,"25,134","17,802",70.8,"7,332",29.2,"4,894",19.5,"2,438",9.7
+2002,Household income-to-poverty ratio,1.85 and over,,"64,263","60,997",94.9,"3,266",5.1,"2,321",3.6,945,1.5
+2002,Household income-to-poverty ratio,Income unknown,,"19,204","17,744",92.4,"1,460",7.6,"1,044",5.4,416,2.2
+2002,Area of residence,Inside metropolitan area,,"87,617","77,997",89,"9,620",11,"6,528",7.5,"3,092",3.5
+2002,Area of residence,Inside metropolitan area,In principal cities,"26,922","23,047",85.6,"3,875",14.4,"2,517",9.3,"1,358",5
+2002,Area of residence,Inside metropolitan area,Not in principal cities,"45,552","41,542",91.2,"4,010",8.8,"2,791",6.1,"1,219",2.7
+2002,Area of residence,Outside metropolitan area,,"20,983","18,545",88.4,"2,438",11.6,"1,731",8.2,707,3.4
+2002,Census geographic region,Northeast,,"20,242","18,372",90.8,"1,870",9.2,"1,266",6.3,604,3
+2002,Census geographic region,Midwest,,"25,180","22,755",90.4,"2,425",9.6,"1,602",6.4,823,3.3
+2002,Census geographic region,South,,"39,195","34,325",87.6,"4,870",12.4,"3,442",8.8,"1,428",3.6
+2002,Census geographic region,West,,"23,984","21,090",87.9,"2,894",12.1,"1,950",8.1,944,3.9
+2003,All households,,,"112,214","99,631",88.8,"12,583",11.2,"8,663",7.7,"3,920",3.5
+2003,Household composition,With children < 18 years,,"40,286","33,575",83.3,"6,711",16.7,"5,165",12.8,"1,546",3.8
+2003,Household composition,With children < 18 years,With children < 6 years,"18,110","14,933",82.5,"3,177",17.5,"2,516",13.9,661,3.6
+2003,Household composition,With children < 18 years,Married-couple families,"27,484","24,503",89.2,"2,981",10.8,"2,446",8.9,535,1.9
+2003,Household composition,With children < 18 years,"Female head, no spouse","9,623","6,572",68.3,"3,051",31.7,"2,210",23,841,8.7
+2003,Household composition,With children < 18 years,"Male head, no spouse","2,475","1,937",78.3,538,21.7,401,16.2,137,5.5
+2003,Household composition,With children < 18 years,Other household with child,704,563,80,141,20,108,15.3,33,4.7
+2003,Household composition,With no children < 18 years,,"71,928","66,057",91.8,"5,871",8.2,"3,498",4.9,"2,373",3.3
+2003,Household composition,With no children < 18 years,More than one adult,"42,553","39,753",93.4,"2,800",6.6,"1,840",4.3,960,2.3
+2003,Household composition,With no children < 18 years,Women living alone,"16,724","15,032",89.9,"1,692",10.1,964,5.8,728,4.4
+2003,Household composition,With no children < 18 years,Men living alone,"12,651","11,271",89.1,"1,380",10.9,694,5.5,686,5.4
+2003,Household composition,With elderly,,"25,946","24,391",94,"1,555",6,"1,105",4.3,450,1.7
+2003,Household composition,With elderly,Elderly living alone,"10,574","9,921",93.8,653,6.2,430,4.1,223,2.1
+2003,Race/ethnicity of households,White non-Hispanic,,"81,080","74,733",92.2,"6,347",7.8,"4,169",5.1,"2,178",2.7
+2003,Race/ethnicity of households,Black non-Hispanic,,"13,156","10,251",77.9,"2,905",22.1,"2,010",15.3,895,6.8
+2003,Race/ethnicity of households,Hispanic,,"12,034","9,347",77.7,"2,687",22.3,"2,034",16.9,653,5.4
+2003,Race/ethnicity of households,Other,,"5,944","5,301",89.2,643,10.8,450,7.6,193,3.2
+2003,Household income-to-poverty ratio,Under 1.00,,"12,739","8,266",64.9,"4,473",35.1,"2,863",22.5,"1,610",12.6
+2003,Household income-to-poverty ratio,Under 1.30,,"18,143","12,245",67.5,"5,898",32.5,"3,845",21.2,"2,053",11.3
+2003,Household income-to-poverty ratio,Under 1.85,,"27,104","19,357",71.4,"7,747",28.6,"5,107",18.8,"2,640",9.7
+2003,Household income-to-poverty ratio,1.85 and over,,"62,145","59,116",95.1,"3,029",4.9,"2,274",3.7,755,1.2
+2003,Household income-to-poverty ratio,Income unknown,,"22,965","21,160",92.1,"1,805",7.9,"1,281",5.6,524,2.3
+2003,Area of residence,Inside metropolitan area,,"90,708","80,611",88.9,"10,097",11.1,"6,903",7.6,"3,194",3.5
+2003,Area of residence,Inside metropolitan area,In principal cities,"27,682","23,581",85.2,"4,101",14.8,"2,804",10.1,"1,297",4.7
+2003,Area of residence,Inside metropolitan area,Not in principal cities,"47,243","42,996",91,"4,247",9,"2,879",6.1,"1,368",2.9
+2003,Area of residence,Outside metropolitan area,,"21,505","19,020",88.4,"2,485",11.6,"1,760",8.2,725,3.4
+2003,Census geographic region,Northeast,,"21,306","19,267",90.4,"2,039",9.6,"1,343",6.3,696,3.3
+2003,Census geographic region,Midwest,,"25,941","23,360",90.1,"2,581",9.9,"1,752",6.8,829,3.2
+2003,Census geographic region,South,,"40,554","35,541",87.6,"5,013",12.4,"3,472",8.6,"1,541",3.8
+2003,Census geographic region,West,,"24,412","21,463",87.9,"2,949",12.1,"2,096",8.6,853,3.5
+2004,All households,,,"112,967","99,473",88.1,"13,494",11.9,"9,045",8,"4,449",3.9
+2004,Household composition,With children < 18 years,,"39,990","32,967",82.4,"7,023",17.6,"5,311",13.3,"1,712",4.3
+2004,Household composition,With children < 18 years,With children < 6 years,"17,922","14,606",81.5,"3,316",18.5,"2,573",14.4,743,4.1
+2004,Household composition,With children < 18 years,Married-couple families,"27,065","23,926",88.4,"3,139",11.6,"2,509",9.3,630,2.3
+2004,Household composition,With children < 18 years,"Female head, no spouse","9,641","6,459",67,"3,182",33,"2,291",23.8,891,9.2
+2004,Household composition,With children < 18 years,"Male head, no spouse","2,693","2,096",77.8,597,22.2,428,15.9,169,6.3
+2004,Household composition,With children < 18 years,Other household with child,592,487,82.3,105,17.7,83,14,22,3.7
+2004,Household composition,With no children < 18 years,,"72,977","66,506",91.1,"6,471",8.9,"3,734",5.1,"2,737",3.8
+2004,Household composition,With no children < 18 years,More than one adult,"43,177","40,278",93.3,"2,899",6.7,"1,834",4.2,"1,065",2.5
+2004,Household composition,With no children < 18 years,Women living alone,"17,012","15,010",88.2,"2,002",11.8,"1,084",6.4,918,5.4
+2004,Household composition,With no children < 18 years,Men living alone,"12,788","11,219",87.7,"1,569",12.3,816,6.4,753,5.9
+2004,Household composition,With elderly,,"26,202","24,510",93.5,"1,692",6.5,"1,227",4.7,465,1.8
+2004,Household composition,With elderly,Elderly living alone,"10,693","9,911",92.7,782,7.3,517,4.8,265,2.5
+2004,Race/ethnicity of households,White non-Hispanic,,"81,388","74,383",91.4,"7,005",8.6,"4,632",5.7,"2,373",2.9
+2004,Race/ethnicity of households,Black non-Hispanic,,"13,509","10,303",76.3,"3,206",23.7,"2,108",15.6,"1,098",8.1
+2004,Race/ethnicity of households,Hispanic,,"12,014","9,404",78.3,"2,610",21.7,"1,903",15.8,707,5.9
+2004,Race/ethnicity of households,Other,,"6,056","5,382",88.9,674,11.1,403,6.7,271,4.5
+2004,Household income-to-poverty ratio,Under 1.00,,"13,347","8,438",63.2,"4,909",36.8,"3,098",23.2,"1,811",13.6
+2004,Household income-to-poverty ratio,Under 1.30,,"18,367","12,118",66,"6,249",34,"3,994",21.7,"2,255",12.3
+2004,Household income-to-poverty ratio,Under 1.85,,"28,081","19,700",70.2,"8,381",29.8,"5,443",19.4,"2,938",10.5
+2004,Household income-to-poverty ratio,1.85 and over,,"63,575","60,138",94.6,"3,437",5.4,"2,443",3.8,994,1.6
+2004,Household income-to-poverty ratio,Income unknown,,"21,311","19,636",92.1,"1,675",7.9,"1,158",5.4,517,2.4
+2004,Area of residence,Inside metropolitan area,,"92,474","81,661",88.3,"10,813",11.7,"7,246",7.8,"3,567",3.9
+2004,Area of residence,Inside metropolitan area,In principal cities,"30,312","25,650",84.6,"4,662",15.4,"3,114",10.3,"1,548",5.1
+2004,Area of residence,Inside metropolitan area,Not in principal cities,"46,444","42,279",91,"4,165",9,"2,865",6.2,"1,300",2.8
+2004,Area of residence,Outside metropolitan area,,"20,492","17,811",86.9,"2,681",13.1,"1,799",8.8,882,4.3
+2004,Census geographic region,Northeast,,"21,038","19,006",90.3,"2,032",9.7,"1,430",6.8,602,2.9
+2004,Census geographic region,Midwest,,"25,957","23,126",89.1,"2,831",10.9,"1,889",7.3,942,3.6
+2004,Census geographic region,South,,"41,157","35,693",86.7,"5,464",13.3,"3,605",8.8,"1,859",4.5
+2004,Census geographic region,West,,"24,815","21,648",87.2,"3,167",12.8,"2,121",8.5,"1,046",4.2
+2005,All households,,,"114,437","101,851",89,"12,586",11,"8,158",7.1,"4,428",3.9
+2005,Household composition,With children < 18 years,,"39,601","33,404",84.4,"6,197",15.6,"4,580",11.6,"1,617",4.1
+2005,Household composition,With children < 18 years,With children < 6 years,"17,615","14,671",83.3,"2,944",16.7,"2,265",12.9,679,3.9
+2005,Household composition,With children < 18 years,Married-couple families,"26,776","24,130",90.1,"2,646",9.9,"2,040",7.6,606,2.3
+2005,Household composition,With children < 18 years,"Female head, no spouse","9,659","6,680",69.2,"2,979",30.8,"2,143",22.2,836,8.7
+2005,Household composition,With children < 18 years,"Male head, no spouse","2,536","2,082",82.1,454,17.9,315,12.4,139,5.5
+2005,Household composition,With children < 18 years,Other household with child,630,510,81,120,19,83,13.2,37,5.9
+2005,Household composition,With no children < 18 years,,"74,836","68,448",91.5,"6,388",8.5,"3,577",4.8,"2,811",3.8
+2005,Household composition,With no children < 18 years,More than one adult,"44,267","41,306",93.3,"2,961",6.7,"1,799",4.1,"1,162",2.6
+2005,Household composition,With no children < 18 years,Women living alone,"17,019","15,147",89,"1,872",11,"1,008",5.9,864,5.1
+2005,Household composition,With no children < 18 years,Men living alone,"13,550","11,996",88.5,"1,554",11.5,770,5.7,784,5.8
+2005,Household composition,With elderly,,"26,609","25,017",94,"1,592",6,"1,105",4.2,487,1.8
+2005,Household composition,With elderly,Elderly living alone,"10,749","10,063",93.6,686,6.4,473,4.4,213,2
+2005,Race/ethnicity of households,White non-Hispanic,,"82,144","75,444",91.8,"6,700",8.2,"4,305",5.2,"2,395",2.9
+2005,Race/ethnicity of households,Black non-Hispanic,,"13,732","10,658",77.6,"3,074",22.4,"1,894",13.8,"1,180",8.6
+2005,Race/ethnicity of households,Hispanic,,"12,397","10,176",82.1,"2,221",17.9,"1,559",12.6,662,5.3
+2005,Race/ethnicity of households,Other,,"6,164","5,573",90.4,591,9.6,400,6.5,191,3.1
+2005,Household income-to-poverty ratio,Under 1.00,,"12,646","8,098",64,"4,548",36,"2,836",22.4,"1,712",13.5
+2005,Household income-to-poverty ratio,Under 1.30,,"17,264","11,526",66.8,"5,738",33.2,"3,555",20.6,"2,183",12.6
+2005,Household income-to-poverty ratio,Under 1.85,,"27,205","19,515",71.7,"7,690",28.3,"4,813",17.7,"2,877",10.6
+2005,Household income-to-poverty ratio,1.85 and over,,"65,030","61,621",94.8,"3,409",5.2,"2,327",3.6,"1,082",1.7
+2005,Household income-to-poverty ratio,Income unknown,,"22,202","20,717",93.3,"1,485",6.7,"1,017",4.6,468,2.1
+2005,Area of residence,Inside metropolitan area,,"94,945","84,706",89.2,"10,239",10.8,"6,593",6.9,"3,646",3.8
+2005,Area of residence,Inside metropolitan area,In principal cities,"31,708","27,429",86.5,"4,279",13.5,"2,661",8.4,"1,618",5.1
+2005,Area of residence,Inside metropolitan area,Not in principal cities,"46,998","42,932",91.3,"4,066",8.7,"2,686",5.7,"1,380",2.9
+2005,Area of residence,Outside metropolitan area,,"19,492","17,146",88,"2,346",12,"1,565",8,781,4
+2005,Census geographic region,Northeast,,"21,196","19,272",90.9,"1,924",9.1,"1,338",6.3,586,2.8
+2005,Census geographic region,Midwest,,"26,387","23,454",88.9,"2,933",11.1,"1,859",7,"1,074",4.1
+2005,Census geographic region,South,,"41,653","36,650",88,"5,003",12,"3,173",7.6,"1,830",4.4
+2005,Census geographic region,West,,"25,202","22,475",89.2,"2,727",10.8,"1,789",7.1,938,3.7
+2006,All households,,,"115,609","102,961",89.1,"12,648",10.9,"8,031",6.9,"4,617",4
+2006,Household composition,With children < 18 years,,"39,436","33,278",84.4,"6,158",15.6,"4,481",11.4,"1,677",4.3
+2006,Household composition,With children < 18 years,With children < 6 years,"17,161","14,295",83.3,"2,866",16.7,"2,141",12.5,725,4.2
+2006,Household composition,With children < 18 years,Married-couple families,"26,614","23,916",89.9,"2,698",10.1,"2,140",8,558,2.1
+2006,Household composition,With children < 18 years,"Female head, no spouse","9,572","6,665",69.6,"2,907",30.4,"1,925",20.1,982,10.3
+2006,Household composition,With children < 18 years,"Male head, no spouse","2,618","2,174",83,444,17,333,12.7,111,4.2
+2006,Household composition,With children < 18 years,Other household with child,633,522,82.5,111,17.5,84,13.3,27,4.3
+2006,Household composition,With no children < 18 years,,"76,173","69,683",91.5,"6,490",8.5,"3,550",4.7,"2,940",3.9
+2006,Household composition,With no children < 18 years,More than one adult,"44,742","41,822",93.5,"2,920",6.5,"1,769",4,"1,151",2.6
+2006,Household composition,With no children < 18 years,Women living alone,"17,587","15,600",88.7,"1,987",11.3,971,5.5,"1,016",5.8
+2006,Household composition,With no children < 18 years,Men living alone,"13,844","12,261",88.6,"1,583",11.4,810,5.9,773,5.6
+2006,Household composition,With elderly,,"26,840","25,242",94,"1,598",6,"1,108",4.1,490,1.8
+2006,Household composition,With elderly,Elderly living alone,"10,499","9,880",94.1,619,5.9,394,3.8,225,2.1
+2006,Race/ethnicity of households,White non-Hispanic,,"82,268","75,810",92.2,"6,458",7.8,"3,937",4.8,"2,521",3.1
+2006,Race/ethnicity of households,Black non-Hispanic,,"14,054","10,991",78.2,"3,063",21.8,"1,944",13.8,"1,119",8
+2006,Race/ethnicity of households,Hispanic,,"12,879","10,367",80.5,"2,512",19.5,"1,780",13.8,732,5.7
+2006,Race/ethnicity of households,Other,,"6,409","5,793",90.4,616,9.6,370,5.8,246,3.8
+2006,Household income-to-poverty ratio,Under 1.00,,"11,829","7,533",63.7,"4,296",36.3,"2,540",21.5,"1,756",14.8
+2006,Household income-to-poverty ratio,Under 1.30,,"16,830","11,265",66.9,"5,565",33.1,"3,363",20,"2,202",13.1
+2006,Household income-to-poverty ratio,Under 1.85,,"27,613","20,075",72.7,"7,538",27.3,"4,593",16.6,"2,945",10.7
+2006,Household income-to-poverty ratio,1.85 and over,,"64,495","61,059",94.7,"3,436",5.3,"2,364",3.7,"1,072",1.7
+2006,Household income-to-poverty ratio,Income unknown,,"23,500","21,826",92.9,"1,674",7.1,"1,074",4.6,600,2.6
+2006,Area of residence,Inside metropolitan area,,"96,192","85,870",89.3,"10,322",10.7,"6,557",6.8,"3,765",3.9
+2006,Area of residence,Inside metropolitan area,In principal cities,"32,054","27,832",86.8,"4,222",13.2,"2,622",8.2,"1,600",5
+2006,Area of residence,Inside metropolitan area,Not in principal cities,"47,541","43,243",91,"4,298",9,"2,793",5.9,"1,505",3.2
+2006,Area of residence,Outside metropolitan area,,"19,417","17,091",88,"2,326",12,"1,474",7.6,852,4.4
+2006,Census geographic region,Northeast,,"21,302","19,343",90.8,"1,959",9.2,"1,195",5.6,764,3.6
+2006,Census geographic region,Midwest,,"26,560","23,717",89.3,"2,843",10.7,"1,804",6.8,"1,039",3.9
+2006,Census geographic region,South,,"42,283","37,099",87.7,"5,184",12.3,"3,361",7.9,"1,823",4.3
+2006,Census geographic region,West,,"25,464","22,802",89.5,"2,662",10.5,"1,671",6.6,991,3.9
+2007,All households,,,"117,100","104,089",88.9,"13,011",11.1,"8,262",7,"4,749",4.1
+2007,Household composition,With children < 18 years,,"39,390","33,160",84.2,"6,230",15.8,"4,376",11.1,"1,854",4.7
+2007,Household composition,With children < 18 years,With children < 6 years,"17,549","14,550",82.9,"2,999",17.1,"2,251",12.8,748,4.3
+2007,Household composition,With children < 18 years,Married-couple families,"26,645","23,852",89.5,"2,793",10.5,"2,074",7.8,719,2.7
+2007,Household composition,With children < 18 years,"Female head, no spouse","9,458","6,600",69.8,"2,858",30.2,"1,882",19.9,976,10.3
+2007,Household composition,With children < 18 years,"Male head, no spouse","2,621","2,150",82,471,18,335,12.8,136,5.2
+2007,Household composition,With children < 18 years,Other household with child,667,560,84,107,16,84,12.6,23,3.4
+2007,Household composition,With no children < 18 years,,"77,710","70,928",91.3,"6,782",8.7,"3,887",5,"2,895",3.7
+2007,Household composition,With no children < 18 years,More than one adult,"45,350","42,291",93.3,"3,059",6.7,"1,851",4.1,"1,208",2.7
+2007,Household composition,With no children < 18 years,Women living alone,"18,395","16,242",88.3,"2,153",11.7,"1,179",6.4,974,5.3
+2007,Household composition,With no children < 18 years,Men living alone,"13,966","12,396",88.8,"1,570",11.2,856,6.1,714,5.1
+2007,Household composition,With elderly,,"27,469","25,692",93.5,"1,777",6.5,"1,131",4.1,646,2.4
+2007,Household composition,With elderly,Elderly living alone,"10,746","9,963",92.7,783,7.3,480,4.5,303,2.8
+2007,Race/ethnicity of households,White non-Hispanic,,"82,882","76,342",92.1,"6,540",7.9,"4,008",4.8,"2,532",3.1
+2007,Race/ethnicity of households,Black non-Hispanic,,"14,209","11,057",77.8,"3,152",22.2,"2,064",14.5,"1,088",7.7
+2007,Race/ethnicity of households,Hispanic,,"13,378","10,694",79.9,"2,684",20.1,"1,798",13.4,886,6.6
+2007,Race/ethnicity of households,Other,,"6,632","5,996",90.4,636,9.6,392,5.9,244,3.7
+2007,Household income-to-poverty ratio,Under 1.00,,"11,688","7,282",62.3,"4,406",37.7,"2,669",22.8,"1,737",14.9
+2007,Household income-to-poverty ratio,Under 1.30,,"17,395","11,451",65.8,"5,944",34.2,"3,574",20.5,"2,370",13.6
+2007,Household income-to-poverty ratio,Under 1.85,,"27,378","19,534",71.3,"7,844",28.7,"4,780",17.5,"3,064",11.2
+2007,Household income-to-poverty ratio,1.85 and over,,"65,898","62,244",94.5,"3,654",5.5,"2,429",3.7,"1,225",1.9
+2007,Household income-to-poverty ratio,Income unknown,,"23,825","22,312",93.6,"1,513",6.4,"1,053",4.4,460,1.9
+2007,Area of residence,Inside metropolitan area,,"97,572","86,850",89,"10,722",11,"6,807",7,"3,915",4
+2007,Area of residence,Inside metropolitan area,In principal cities,"32,843","28,420",86.5,"4,423",13.5,"2,772",8.4,"1,651",5
+2007,Area of residence,Inside metropolitan area,Not in principal cities,"47,971","43,640",91,"4,331",9,"2,865",6,"1,466",3.1
+2007,Area of residence,Outside metropolitan area,,"19,528","17,239",88.3,"2,289",11.7,"1,455",7.5,834,4.3
+2007,Census geographic region,Northeast,,"21,353","19,147",89.7,"2,206",10.3,"1,469",6.9,737,3.5
+2007,Census geographic region,Midwest,,"26,506","23,658",89.3,"2,848",10.7,"1,741",6.6,"1,107",4.2
+2007,Census geographic region,South,,"43,246","38,145",88.2,"5,101",11.8,"3,262",7.5,"1,839",4.3
+2007,Census geographic region,West,,"25,995","23,139",89,"2,856",11,"1,790",6.9,"1,066",4.1
+2008,All households,,,"117,565","100,416",85.4,"17,149",14.6,"10,426",8.9,"6,723",5.7
+2008,Household composition,With children < 18 years,,"39,699","31,364",79,"8,335",21,"5,718",14.4,"2,617",6.6
+2008,Household composition,With children < 18 years,With children < 6 years,"17,503","13,595",77.7,"3,908",22.3,"2,818",16.1,"1,090",6.2
+2008,Household composition,With children < 18 years,Married-couple families,"26,705","22,887",85.7,"3,818",14.3,"2,735",10.2,"1,083",4.1
+2008,Household composition,With children < 18 years,"Female head, no spouse","9,639","6,057",62.8,"3,582",37.2,"2,296",23.8,"1,286",13.3
+2008,Household composition,With children < 18 years,"Male head, no spouse","2,782","2,013",72.4,769,27.6,569,20.5,200,7.2
+2008,Household composition,With children < 18 years,Other household with child,572,405,70.8,167,29.2,118,20.6,49,8.6
+2008,Household composition,With no children < 18 years,,"77,866","69,052",88.7,"8,814",11.3,"4,708",6,"4,106",5.3
+2008,Household composition,With no children < 18 years,More than one adult,"45,772","41,610",90.9,"4,162",9.1,"2,409",5.3,"1,753",3.8
+2008,Household composition,With no children < 18 years,Women living alone,"17,934","15,266",85.1,"2,668",14.9,"1,284",7.2,"1,384",7.7
+2008,Household composition,With no children < 18 years,Men living alone,"14,160","12,177",86,"1,983",14,"1,015",7.2,968,6.8
+2008,Household composition,With elderly,,"28,211","25,927",91.9,"2,284",8.1,"1,402",5,882,3.1
+2008,Household composition,With elderly,Elderly living alone,"11,148","10,168",91.2,980,8.8,552,5,428,3.8
+2008,Race/ethnicity of households,White non-Hispanic,,"82,935","74,041",89.3,"8,894",10.7,"5,154",6.2,"3,740",4.5
+2008,Race/ethnicity of households,Black non-Hispanic,,"14,441","10,732",74.3,"3,709",25.7,"2,251",15.6,"1,458",10.1
+2008,Race/ethnicity of households,Hispanic,,"13,504","9,873",73.1,"3,631",26.9,"2,439",18.1,"1,192",8.8
+2008,Race/ethnicity of households,Other,,"6,686","5,772",86.3,914,13.7,582,8.7,332,5
+2008,Household income-to-poverty ratio,Under 1.00,,"13,117","7,576",57.8,"5,541",42.2,"3,014",23,"2,527",19.3
+2008,Household income-to-poverty ratio,Under 1.30,,"20,383","12,427",61,"7,956",39,"4,403",21.6,"3,553",17.4
+2008,Household income-to-poverty ratio,Under 1.85,,"29,680","19,622",66.1,"10,058",33.9,"5,731",19.3,"4,327",14.6
+2008,Household income-to-poverty ratio,1.85 and over,,"70,433","65,038",92.3,"5,395",7.7,"3,595",5.1,"1,800",2.6
+2008,Household income-to-poverty ratio,Income unknown,,"17,452","15,755",90.3,"1,697",9.7,"1,101",6.3,596,3.4
+2008,Area of residence,Inside metropolitan area,,"98,189","83,790",85.3,"14,399",14.7,"8,757",8.9,"5,642",5.7
+2008,Area of residence,Inside metropolitan area,In principal cities,"32,808","27,006",82.3,"5,802",17.7,"3,634",11.1,"2,168",6.6
+2008,Area of residence,Inside metropolitan area,Not in principal cities,"48,239","42,125",87.3,"6,114",12.7,"3,650",7.6,"2,464",5.1
+2008,Area of residence,Outside metropolitan area,,"19,375","16,625",85.8,"2,750",14.2,"1,669",8.6,"1,081",5.6
+2008,Census geographic region,Northeast,,"21,341","18,616",87.2,"2,725",12.8,"1,610",7.5,"1,115",5.2
+2008,Census geographic region,Midwest,,"26,370","22,671",86,"3,699",14,"2,254",8.5,"1,445",5.5
+2008,Census geographic region,South,,"43,542","36,621",84.1,"6,921",15.9,"4,216",9.7,"2,705",6.2
+2008,Census geographic region,West,,"26,311","22,507",85.5,"3,804",14.5,"2,346",8.9,"1,458",5.5
+2009,All households,,,"118,174","100,820",85.3,"17,354",14.7,"10,601",9,"6,753",5.7
+2009,Household composition,With children < 18 years,,"39,525","31,114",78.7,"8,411",21.3,"5,812",14.7,"2,599",6.6
+2009,Household composition,With children < 18 years,With children < 6 years,"17,598","13,566",77.1,"4,032",22.9,"2,896",16.5,"1,136",6.5
+2009,Household composition,With children < 18 years,Married-couple families,"26,334","22,475",85.3,"3,859",14.7,"2,818",10.7,"1,041",4
+2009,Household composition,With children < 18 years,"Female head, no spouse","9,700","6,146",63.4,"3,554",36.6,"2,300",23.7,"1,254",12.9
+2009,Household composition,With children < 18 years,"Male head, no spouse","2,883","2,082",72.2,801,27.8,561,19.5,240,8.3
+2009,Household composition,With children < 18 years,Other household with child,607,410,67.5,197,32.5,133,21.9,64,10.5
+2009,Household composition,With no children < 18 years,,"78,649","69,706",88.6,"8,943",11.4,"4,789",6.1,"4,154",5.3
+2009,Household composition,With no children < 18 years,More than one adult,"46,677","42,404",90.8,"4,273",9.2,"2,443",5.2,"1,830",3.9
+2009,Household composition,With no children < 18 years,Women living alone,"17,662","15,064",85.3,"2,598",14.7,"1,288",7.3,"1,310",7.4
+2009,Household composition,With no children < 18 years,Men living alone,"14,310","12,238",85.5,"2,072",14.5,"1,058",7.4,"1,014",7.1
+2009,Household composition,With elderly,,"28,912","26,743",92.5,"2,169",7.5,"1,416",4.9,753,2.6
+2009,Household composition,With elderly,Elderly living alone,"11,300","10,416",92.2,884,7.8,536,4.7,348,3.1
+2009,Race/ethnicity of households,White non-Hispanic,,"83,259","74,066",89,"9,193",11,"5,394",6.5,"3,799",4.6
+2009,Race/ethnicity of households,Black non-Hispanic,,"14,519","10,908",75.1,"3,611",24.9,"2,259",15.6,"1,352",9.3
+2009,Race/ethnicity of households,Hispanic,,"13,566","9,922",73.1,"3,644",26.9,"2,388",17.6,"1,256",9.3
+2009,Race/ethnicity of households,Other,,"6,830","5,926",86.8,904,13.2,559,8.2,345,5.1
+2009,Household income-to-poverty ratio,Under 1.00,,"13,193","7,525",57,"5,668",43,"3,221",24.4,"2,447",18.5
+2009,Household income-to-poverty ratio,Under 1.30,,"19,913","12,000",60.3,"7,913",39.7,"4,520",22.7,"3,393",17
+2009,Household income-to-poverty ratio,Under 1.85,,"29,454","19,194",65.2,"10,260",34.8,"6,020",20.4,"4,240",14.4
+2009,Household income-to-poverty ratio,1.85 and over,,"63,983","59,125",92.4,"4,858",7.6,"3,161",4.9,"1,697",2.7
+2009,Household income-to-poverty ratio,Income unknown,,"24,738","22,503",91,"2,235",9,"1,420",5.7,815,3.3
+2009,Area of residence,Inside metropolitan area,,"98,336","83,803",85.2,"14,533",14.8,"8,843",9,"5,690",5.8
+2009,Area of residence,Inside metropolitan area,In principal cities,"32,690","27,059",82.8,"5,631",17.2,"3,417",10.5,"2,214",6.8
+2009,Area of residence,Inside metropolitan area,Not in principal cities,"48,698","42,261",86.8,"6,437",13.2,"3,912",8,"2,525",5.2
+2009,Area of residence,Outside metropolitan area,,"19,838","17,017",85.8,"2,821",14.2,"1,757",8.9,"1,064",5.4
+2009,Census geographic region,Northeast,,"21,403","18,787",87.8,"2,616",12.2,"1,591",7.4,"1,025",4.8
+2009,Census geographic region,Midwest,,"26,512","22,836",86.1,"3,676",13.9,"2,251",8.5,"1,425",5.4
+2009,Census geographic region,South,,"43,842","36,885",84.1,"6,957",15.9,"4,228",9.6,"2,729",6.2
+2009,Census geographic region,West,,"26,417","22,312",84.5,"4,105",15.5,"2,531",9.6,"1,574",6
+2010,All households,,,"118,756","101,527",85.5,"17,229",14.5,"10,872",9.2,"6,357",5.4
+2010,Household composition,With children < 18 years,,"39,419","31,447",79.8,"7,972",20.2,"5,724",14.5,"2,248",5.7
+2010,Household composition,With children < 18 years,With children < 6 years,"17,780","13,899",78.2,"3,881",21.8,"2,850",16,"1,031",5.8
+2010,Household composition,With children < 18 years,Married-couple families,"25,729","22,179",86.2,"3,550",13.8,"2,636",10.2,914,3.6
+2010,Household composition,With children < 18 years,"Female head, no spouse","10,081","6,547",64.9,"3,534",35.1,"2,450",24.3,"1,084",10.8
+2010,Household composition,With children < 18 years,"Male head, no spouse","2,980","2,223",74.6,757,25.4,558,18.7,199,6.7
+2010,Household composition,With children < 18 years,Other household with child,629,498,79.2,131,20.8,81,12.9,50,7.9
+2010,Household composition,With no children < 18 years,,"79,337","70,080",88.3,"9,257",11.7,"5,148",6.5,"4,109",5.2
+2010,Household composition,With no children < 18 years,More than one adult,"47,112","42,468",90.1,"4,644",9.9,"2,781",5.9,"1,863",4
+2010,Household composition,With no children < 18 years,Women living alone,"17,644","15,218",86.3,"2,426",13.7,"1,329",7.5,"1,097",6.2
+2010,Household composition,With no children < 18 years,Men living alone,"14,582","12,394",85,"2,188",15,"1,038",7.1,"1,150",7.9
+2010,Household composition,With elderly,,"29,438","27,102",92.1,"2,336",7.9,"1,563",5.3,773,2.6
+2010,Household composition,With elderly,Elderly living alone,"11,565","10,640",92,925,8,551,4.8,374,3.2
+2010,Race/ethnicity of households,White non-Hispanic,,"83,113","74,117",89.2,"8,996",10.8,"5,512",6.6,"3,484",4.2
+2010,Race/ethnicity of households,Black non-Hispanic,,"14,600","10,941",74.9,"3,659",25.1,"2,332",16,"1,327",9.1
+2010,Race/ethnicity of households,Hispanic,,"14,109","10,416",73.8,"3,693",26.2,"2,507",17.8,"1,186",8.4
+2010,Race/ethnicity of households,Other,,"6,933","6,052",87.3,881,12.7,521,7.5,360,5.2
+2010,Household income-to-poverty ratio,Under 1.00,,"15,133","9,056",59.8,"6,077",40.2,"3,584",23.7,"2,493",16.5
+2010,Household income-to-poverty ratio,Under 1.30,,"20,907","13,039",62.4,"7,868",37.6,"4,757",22.8,"3,111",14.9
+2010,Household income-to-poverty ratio,Under 1.85,,"30,101","19,940",66.2,"10,161",33.8,"6,232",20.7,"3,929",13.1
+2010,Household income-to-poverty ratio,1.85 and over,,"62,335","57,710",92.6,"4,625",7.4,"3,092",5,"1,533",2.5
+2010,Household income-to-poverty ratio,Income unknown,,"26,319","23,876",90.7,"2,443",9.3,"1,548",5.9,895,3.4
+2010,Area of residence,Inside metropolitan area,,"98,657","84,379",85.5,"14,278",14.5,"9,015",9.1,"5,263",5.3
+2010,Area of residence,Inside metropolitan area,In principal cities,"32,732","27,171",83,"5,561",17,"3,491",10.7,"2,070",6.3
+2010,Area of residence,Inside metropolitan area,Not in principal cities,"49,000","42,831",87.4,"6,169",12.6,"3,902",8,"2,267",4.6
+2010,Area of residence,Outside metropolitan area,,"20,099","17,147",85.3,"2,952",14.7,"1,858",9.2,"1,094",5.4
+2010,Census geographic region,Northeast,,"21,731","19,036",87.6,"2,695",12.4,"1,665",7.7,"1,030",4.7
+2010,Census geographic region,Midwest,,"26,589","23,062",86.7,"3,527",13.3,"2,153",8.1,"1,374",5.2
+2010,Census geographic region,South,,"44,270","37,203",84,"7,067",16,"4,591",10.4,"2,476",5.6
+2010,Census geographic region,West,,"26,166","22,226",84.9,"3,940",15.1,"2,463",9.4,"1,477",5.6
+2011,All households,,,"119,484","101,631",85.1,"17,853",14.9,"11,014",9.2,"6,839",5.7
+2011,Household composition,With children < 18 years,,"38,803","30,814",79.4,"7,989",20.6,"5,750",14.8,"2,239",5.8
+2011,Household composition,With children < 18 years,With children < 6 years,"17,281","13,494",78.1,"3,787",21.9,"2,884",16.7,903,5.2
+2011,Household composition,With children < 18 years,Married-couple families,"25,421","21,879",86.1,"3,542",13.9,"2,671",10.5,871,3.4
+2011,Household composition,With children < 18 years,"Female head, no spouse","9,690","6,124",63.2,"3,566",36.8,"2,452",25.3,"1,114",11.5
+2011,Household composition,With children < 18 years,"Male head, no spouse","3,055","2,295",75.1,760,24.9,532,17.4,228,7.5
+2011,Household composition,With children < 18 years,Other household with child,638,517,81,121,19,96,15,25,3.9
+2011,Household composition,With no children < 18 years,,"80,681","70,817",87.8,"9,864",12.2,"5,264",6.5,"4,600",5.7
+2011,Household composition,With no children < 18 years,More than one adult,"47,863","43,103",90.1,"4,760",9.9,"2,778",5.8,"1,982",4.1
+2011,Household composition,With no children < 18 years,Women living alone,"18,021","15,205",84.4,"2,816",15.6,"1,387",7.7,"1,429",7.9
+2011,Household composition,With no children < 18 years,Men living alone,"14,796","12,508",84.5,"2,288",15.5,"1,099",7.4,"1,189",8
+2011,Household composition,With elderly,,"30,099","27,579",91.6,"2,520",8.4,"1,589",5.3,931,3.1
+2011,Household composition,With elderly,Elderly living alone,"11,402","10,400",91.2,"1,002",8.8,579,5.1,423,3.7
+2011,Race/ethnicity of households,White non-Hispanic,,"83,304","73,823",88.6,"9,481",11.4,"5,689",6.8,"3,792",4.6
+2011,Race/ethnicity of households,Black non-Hispanic,,"14,765","11,066",74.9,"3,699",25.1,"2,155",14.6,"1,544",10.5
+2011,Race/ethnicity of households,Hispanic,,"14,410","10,629",73.8,"3,781",26.2,"2,583",17.9,"1,198",8.3
+2011,Race/ethnicity of households,Other,,"7,005","6,113",87.3,892,12.7,587,8.4,305,4.4
+2011,Household income-to-poverty ratio,Under 1.00,,"15,557","9,164",58.9,"6,393",41.1,"3,616",23.2,"2,777",17.9
+2011,Household income-to-poverty ratio,Under 1.30,,"22,168","13,825",62.4,"8,343",37.6,"4,763",21.5,"3,580",16.1
+2011,Household income-to-poverty ratio,Under 1.85,,"31,437","20,593",65.5,"10,844",34.5,"6,376",20.3,"4,468",14.2
+2011,Household income-to-poverty ratio,1.85 and over,,"62,244","57,888",93,"4,356",7,"2,938",4.7,"1,418",2.3
+2011,Household income-to-poverty ratio,Income unknown,,"25,802","23,149",89.7,"2,653",10.3,"1,700",6.6,953,3.7
+2011,Area of residence,Inside metropolitan area,,"99,835","84,999",85.1,"14,836",14.9,"9,163",9.2,"5,673",5.7
+2011,Area of residence,Inside metropolitan area,In principal cities,"33,515","27,597",82.3,"5,918",17.7,"3,646",10.9,"2,272",6.8
+2011,Area of residence,Inside metropolitan area,Not in principal cities,"49,253","42,770",86.8,"6,483",13.2,"4,013",8.1,"2,470",5
+2011,Area of residence,Outside metropolitan area,,"19,649","16,632",84.6,"3,017",15.4,"1,851",9.4,"1,166",5.9
+2011,Census geographic region,Northeast,,"21,650","18,736",86.5,"2,914",13.5,"1,777",8.2,"1,137",5.3
+2011,Census geographic region,Midwest,,"26,359","22,798",86.5,"3,561",13.5,"2,141",8.1,"1,420",5.4
+2011,Census geographic region,South,,"44,772","37,618",84,"7,154",16,"4,431",9.9,"2,723",6.1
+2011,Census geographic region,West,,"26,703","22,478",84.2,"4,225",15.8,"2,665",10,"1,560",5.8
+2012,All households,,,"121,546","103,914",85.5,"17,632",14.5,"10,679",8.8,"6,953",5.7
+2012,Household composition,With children < 18 years,,"39,201","31,354",80,"7,847",20,"5,478",14,"2,369",6
+2012,Household composition,With children < 18 years,With children < 6 years,"17,325","13,770",79.5,"3,555",20.5,"2,608",15.1,947,5.5
+2012,Household composition,With children < 18 years,Married-couple families,"25,233","21,907",86.8,"3,326",13.2,"2,500",9.9,826,3.3
+2012,Household composition,With children < 18 years,"Female head, no spouse","10,373","6,705",64.6,"3,668",35.4,"2,351",22.7,"1,317",12.7
+2012,Household composition,With children < 18 years,"Male head, no spouse","3,008","2,299",76.4,709,23.6,519,17.3,190,6.3
+2012,Household composition,With children < 18 years,Other household with child,587,443,75.5,144,24.5,108,18.4,36,6.1
+2012,Household composition,With no children < 18 years,,"82,345","72,560",88.1,"9,785",11.9,"5,201",6.3,"4,584",5.6
+2012,Household composition,With no children < 18 years,More than one adult,"49,577","44,726",90.2,"4,851",9.8,"2,695",5.4,"2,156",4.3
+2012,Household composition,With no children < 18 years,Women living alone,"17,903","15,162",84.7,"2,741",15.3,"1,400",7.8,"1,341",7.5
+2012,Household composition,With no children < 18 years,Men living alone,"14,865","12,673",85.3,"2,192",14.7,"1,106",7.4,"1,086",7.3
+2012,Household composition,With elderly,,"31,932","29,122",91.2,"2,810",8.8,"1,682",5.3,"1,128",3.5
+2012,Household composition,With elderly,Elderly living alone,"11,706","10,643",90.9,"1,063",9.1,595,5.1,468,4
+2012,Race/ethnicity of households,White non-Hispanic,,"83,217","73,914",88.8,"9,303",11.2,"5,452",6.6,"3,851",4.6
+2012,Race/ethnicity of households,Black non-Hispanic,,"14,976","11,287",75.4,"3,689",24.6,"2,136",14.3,"1,553",10.4
+2012,Race/ethnicity of households,Hispanic,,"15,613","11,982",76.7,"3,631",23.3,"2,469",15.8,"1,162",7.4
+2012,Race/ethnicity of households,Other,,"7,740","6,730",87,"1,010",13,623,8,387,5
+2012,Household income-to-poverty ratio,Under 1.00,,"15,547","9,196",59.1,"6,351",40.9,"3,526",22.7,"2,825",18.2
+2012,Household income-to-poverty ratio,Under 1.30,,"21,797","13,472",61.8,"8,325",38.2,"4,676",21.5,"3,649",16.7
+2012,Household income-to-poverty ratio,Under 1.85,,"31,259","20,534",65.7,"10,725",34.3,"6,197",19.8,"4,528",14.5
+2012,Household income-to-poverty ratio,1.85 and over,,"64,274","59,882",93.2,"4,392",6.8,"2,916",4.5,"1,476",2.3
+2012,Household income-to-poverty ratio,Income unknown,,"26,013","23,497",90.3,"2,516",9.7,"1,567",6,949,3.6
+2012,Area of residence,Inside metropolitan area,,"101,476","86,961",85.7,"14,515",14.3,"8,809",8.7,"5,706",5.6
+2012,Area of residence,Inside metropolitan area,In principal cities,"33,959","28,214",83.1,"5,745",16.9,"3,468",10.2,"2,277",6.7
+2012,Area of residence,Inside metropolitan area,Not in principal cities,"50,358","43,957",87.3,"6,401",12.7,"3,930",7.8,"2,471",4.9
+2012,Area of residence,Outside metropolitan area,,"20,070","16,953",84.5,"3,117",15.5,"1,870",9.3,"1,247",6.2
+2012,Census geographic region,Northeast,,"21,693","19,102",88.1,"2,591",11.9,"1,594",7.3,997,4.6
+2012,Census geographic region,Midwest,,"27,051","23,222",85.8,"3,829",14.2,"2,128",7.9,"1,701",6.3
+2012,Census geographic region,South,,"45,731","38,404",84,"7,327",16,"4,660",10.2,"2,667",5.8
+2012,Census geographic region,West,,"27,071","23,186",85.6,"3,885",14.4,"2,297",8.5,"1,588",5.9
+2013,All households,,,"122,579","105,070",85.7,"17,509",14.3,"10,664",8.7,"6,845",5.6
+2013,Household composition,With children < 18 years,,"38,486","30,979",80.5,"7,507",19.5,"5,240",13.6,"2,267",5.9
+2013,Household composition,With children < 18 years,With children < 6 years,"16,942","13,405",79.1,"3,537",20.9,"2,556",15.1,981,5.8
+2013,Household composition,With children < 18 years,Married-couple families,"24,896","21,700",87.2,"3,196",12.8,"2,283",9.2,913,3.7
+2013,Household composition,With children < 18 years,"Female head, no spouse","10,025","6,577",65.6,"3,448",34.4,"2,362",23.6,"1,086",10.8
+2013,Household composition,With children < 18 years,"Male head, no spouse","3,025","2,327",76.9,698,23.1,501,16.6,197,6.5
+2013,Household composition,With children < 18 years,Other household with child,540,374,69.3,166,30.7,95,17.6,71,13.1
+2013,Household composition,With no children < 18 years,,"84,093","74,092",88.1,"10,001",11.9,"5,423",6.4,"4,578",5.4
+2013,Household composition,With no children < 18 years,More than one adult,"50,145","45,201",90.1,"4,944",9.9,"2,913",5.8,"2,031",4.1
+2013,Household composition,With no children < 18 years,Women living alone,"18,686","15,853",84.8,"2,833",15.2,"1,453",7.8,"1,380",7.4
+2013,Household composition,With no children < 18 years,Men living alone,"15,263","13,038",85.4,"2,225",14.6,"1,058",6.9,"1,167",7.6
+2013,Household composition,With elderly,,"33,244","30,354",91.3,"2,890",8.7,"1,866",5.6,"1,024",3.1
+2013,Household composition,With elderly,Elderly living alone,"12,341","11,232",91,"1,109",9,657,5.3,452,3.7
+2013,Race/ethnicity of households,White non-Hispanic,,"83,496","74,636",89.4,"8,860",10.6,"5,033",6,"3,827",4.6
+2013,Race/ethnicity of households,Black non-Hispanic,,"15,311","11,322",73.9,"3,989",26.1,"2,442",15.9,"1,547",10.1
+2013,Race/ethnicity of households,Hispanic,,"15,648","11,939",76.3,"3,709",23.7,"2,660",17,"1,049",6.7
+2013,Race/ethnicity of households,Other,,"8,124","7,175",88.3,949,11.7,528,6.5,421,5.2
+2013,Household income-to-poverty ratio,Under 1.00,,"14,819","8,583",57.9,"6,236",42.1,"3,489",23.5,"2,747",18.5
+2013,Household income-to-poverty ratio,Under 1.30,,"20,715","12,657",61.1,"8,058",38.9,"4,589",22.2,"3,469",16.7
+2013,Household income-to-poverty ratio,Under 1.85,,"29,809","19,429",65.2,"10,380",34.8,"6,089",20.4,"4,291",14.4
+2013,Household income-to-poverty ratio,1.85 and over,,"62,985","58,774",93.3,"4,211",6.7,"2,784",4.4,"1,427",2.3
+2013,Household income-to-poverty ratio,Income unknown,,"29,786","26,869",90.2,"2,917",9.8,"1,790",6,"1,127",3.8
+2013,Area of residence,Inside metropolitan area,,"102,936","88,384",85.9,"14,552",14.1,"8,857",8.6,"5,695",5.5
+2013,Area of residence,Inside metropolitan area,In principal cities,"34,425","28,667",83.3,"5,758",16.7,"3,593",10.4,"2,165",6.3
+2013,Area of residence,Inside metropolitan area,Not in principal cities,"51,077","44,904",87.9,"6,173",12.1,"3,721",7.3,"2,452",4.8
+2013,Area of residence,Outside metropolitan area,,"19,643","16,686",84.9,"2,957",15.1,"1,807",9.2,"1,150",5.9
+2013,Census geographic region,Northeast,,"21,894","19,190",87.6,"2,704",12.4,"1,636",7.5,"1,068",4.9
+2013,Census geographic region,Midwest,,"27,097","23,420",86.4,"3,677",13.6,"2,198",8.1,"1,479",5.5
+2013,Census geographic region,South,,"46,256","38,974",84.3,"7,282",15.7,"4,421",9.6,"2,861",6.2
+2013,Census geographic region,West,,"27,331","23,486",85.9,"3,845",14.1,"2,408",8.8,"1,437",5.3
+2014,All households,,,"124,044","106,618",86,"17,426",14,"10,488",8.4,"6,938",5.6
+2014,Household composition,With children < 18 years,,"39,079","31,590",80.8,"7,489",19.2,"5,147",13.2,"2,342",6
+2014,Household composition,With children < 18 years,With children < 6 years,"17,211","13,786",80.1,"3,425",19.9,"2,457",14.3,968,5.6
+2014,Household composition,With children < 18 years,Married-couple families,"25,376","22,226",87.6,"3,150",12.4,"2,346",9.2,804,3.2
+2014,Household composition,With children < 18 years,"Female head, no spouse","9,912","6,411",64.7,"3,501",35.3,"2,230",22.5,"1,271",12.8
+2014,Household composition,With children < 18 years,"Male head, no spouse","3,237","2,533",78.3,704,21.7,476,14.7,228,7
+2014,Household composition,With children < 18 years,Other household with child,554,419,75.6,135,24.4,96,17.3,39,7
+2014,Household composition,With no children < 18 years,,"84,965","75,029",88.3,"9,936",11.7,"5,340",6.3,"4,596",5.4
+2014,Household composition,With no children < 18 years,More than one adult,"50,621","45,731",90.3,"4,890",9.7,"2,772",5.5,"2,118",4.2
+2014,Household composition,With no children < 18 years,Women living alone,"19,062","16,149",84.7,"2,913",15.3,"1,541",8.1,"1,372",7.2
+2014,Household composition,With no children < 18 years,Men living alone,"15,283","13,150",86,"2,133",14,"1,027",6.7,"1,106",7.2
+2014,Household composition,With elderly,,"34,269","31,230",91.1,"3,039",8.9,"1,941",5.7,"1,098",3.2
+2014,Household composition,With elderly,Elderly living alone,"12,792","11,608",90.7,"1,184",9.3,704,5.5,480,3.8
+2014,Race/ethnicity of households,White non-Hispanic,,"84,127","75,335",89.5,"8,792",10.5,"4,966",5.9,"3,826",4.5
+2014,Race/ethnicity of households,Black non-Hispanic,,"15,424","11,393",73.9,"4,031",26.1,"2,434",15.8,"1,597",10.4
+2014,Race/ethnicity of households,Hispanic,,"16,148","12,527",77.6,"3,621",22.4,"2,502",15.5,"1,119",6.9
+2014,Race/ethnicity of households,Other,,"8,346","7,365",88.2,981,11.8,585,7,396,4.7
+2014,Household income-to-poverty ratio,Under 1.00,,"15,812","9,560",60.5,"6,252",39.5,"3,409",21.6,"2,843",18
+2014,Household income-to-poverty ratio,Under 1.30,,"20,783","13,009",62.6,"7,774",37.4,"4,290",20.6,"3,484",16.8
+2014,Household income-to-poverty ratio,Under 1.85,,"31,376","20,790",66.3,"10,586",33.7,"6,030",19.2,"4,556",14.5
+2014,Household income-to-poverty ratio,1.85 and over,,"64,200","60,153",93.7,"4,047",6.3,"2,683",4.2,"1,364",2.1
+2014,Household income-to-poverty ratio,Income unknown,,"28,468","25,676",90.2,"2,792",9.8,"1,775",6.2,"1,017",3.6
+2014,Area of residence,Inside metropolitan area,,"104,931","90,781",86.5,"14,150",13.5,"8,601",8.2,"5,549",5.3
+2014,Area of residence,Inside metropolitan area,In principal cities,"35,672","30,085",84.3,"5,587",15.7,"3,476",9.7,"2,111",5.9
+2014,Area of residence,Inside metropolitan area,Not in principal cities,"51,892","45,779",88.2,"6,113",11.8,"3,600",6.9,"2,513",4.8
+2014,Area of residence,Outside metropolitan area,,"19,114","15,839",82.9,"3,275",17.1,"1,886",9.9,"1,389",7.3
+2014,Census geographic region,Northeast,,"22,156","19,209",86.7,"2,947",13.3,"1,789",8.1,"1,158",5.2
+2014,Census geographic region,Midwest,,"27,260","23,489",86.2,"3,771",13.8,"2,180",8,"1,591",5.8
+2014,Census geographic region,South,,"46,869","39,803",84.9,"7,066",15.1,"4,235",9,"2,831",6
+2014,Census geographic region,West,,"27,760","24,119",86.9,"3,641",13.1,"2,284",8.2,"1,357",4.9
+2015,All households,,,"125,164","109,315",87.3,"15,849",12.7,"9,540",7.6,"6,309",5
+2015,Household composition,With children < 18 years,,"38,978","32,519",83.4,"6,459",16.6,"4,557",11.7,"1,902",4.9
+2015,Household composition,With children < 18 years,With children < 6 years,"16,995","14,129",83.1,"2,866",16.9,"2,146",12.6,720,4.2
+2015,Household composition,With children < 18 years,Married-couple families,"25,232","22,670",89.8,"2,562",10.2,"1,923",7.6,639,2.5
+2015,Household composition,With children < 18 years,"Female head, no spouse","10,117","7,052",69.7,"3,065",30.3,"2,109",20.8,956,9.4
+2015,Household composition,With children < 18 years,"Male head, no spouse","3,133","2,432",77.6,701,22.4,443,14.1,258,8.2
+2015,Household composition,With children < 18 years,Other household with child,496,366,73.8,130,26.2,82,16.5,48,9.7
+2015,Household composition,With no children < 18 years,,"86,187","76,796",89.1,"9,391",10.9,"4,983",5.8,"4,408",5.1
+2015,Household composition,With no children < 18 years,More than one adult,"51,357","46,976",91.5,"4,381",8.5,"2,504",4.9,"1,877",3.7
+2015,Household composition,With no children < 18 years,Women living alone,"18,954","16,169",85.3,"2,785",14.7,"1,413",7.5,"1,372",7.2
+2015,Household composition,With no children < 18 years,Men living alone,"15,876","13,652",86,"2,224",14,"1,065",6.7,"1,159",7.3
+2015,Household composition,With elderly,,"35,265","32,340",91.7,"2,925",8.3,"1,789",5.1,"1,136",3.2
+2015,Household composition,With elderly,Elderly living alone,"13,137","11,932",90.8,"1,205",9.2,657,5,548,4.2
+2015,Race/ethnicity of households,White non-Hispanic,,"83,931","75,563",90,"8,368",10,"4,759",5.7,"3,609",4.3
+2015,Race/ethnicity of households,Black non-Hispanic,,"15,734","12,357",78.5,"3,377",21.5,"2,127",13.5,"1,250",7.9
+2015,Race/ethnicity of households,Hispanic,,"16,803","13,592",80.9,"3,211",19.1,"2,132",12.7,"1,079",6.4
+2015,Race/ethnicity of households,Other,,"8,695","7,803",89.7,892,10.3,521,6,371,4.3
+2015,Household income-to-poverty ratio,Under 1.00,,"14,070","8,687",61.7,"5,383",38.3,"3,006",21.4,"2,377",16.9
+2015,Household income-to-poverty ratio,Under 1.30,,"18,917","11,954",63.2,"6,963",36.8,"3,966",21,"2,997",15.8
+2015,Household income-to-poverty ratio,Under 1.85,,"28,994","19,479",67.2,"9,515",32.8,"5,572",19.2,"3,943",13.6
+2015,Household income-to-poverty ratio,1.85 and over,,"65,319","61,552",94.2,"3,767",5.8,"2,376",3.6,"1,391",2.1
+2015,Household income-to-poverty ratio,Income unknown,,"30,851","28,282",91.7,"2,569",8.3,"1,593",5.2,976,3.2
+2015,Area of residence,Inside metropolitan area,,"106,990","93,947",87.8,"13,043",12.2,"7,843",7.3,"5,200",4.9
+2015,Area of residence,Inside metropolitan area,In principal cities,"36,809","31,606",85.9,"5,203",14.1,"3,240",8.8,"1,963",5.3
+2015,Area of residence,Inside metropolitan area,Not in principal cities,"53,585","48,023",89.6,"5,562",10.4,"3,304",6.2,"2,258",4.2
+2015,Area of residence,Outside metropolitan area,,"18,175","15,369",84.6,"2,806",15.4,"1,697",9.3,"1,109",6.1
+2015,Census geographic region,Northeast,,"22,300","19,640",88.1,"2,660",11.9,"1,616",7.2,"1,044",4.7
+2015,Census geographic region,Midwest,,"27,199","23,727",87.2,"3,472",12.8,"2,069",7.6,"1,403",5.2
+2015,Census geographic region,South,,"47,389","41,101",86.7,"6,288",13.3,"3,750",7.9,"2,538",5.4
+2015,Census geographic region,West,,"28,277","24,848",87.9,"3,429",12.1,"2,105",7.4,"1,324",4.7
+2016,All households,,,"126,401","110,850",87.7,"15,551",12.3,"9,413",7.4,"6,138",4.9
+2016,Household composition,With children < 18 years,,"38,400","32,059",83.5,"6,341",16.5,"4,501",11.7,"1,840",4.8
+2016,Household composition,With children < 18 years,With children < 6 years,"16,571","13,820",83.4,"2,751",16.6,"1,923",11.6,828,5
+2016,Household composition,With children < 18 years,Married-couple families,"25,031","22,560",90.1,"2,471",9.9,"1,843",7.4,628,2.5
+2016,Household composition,With children < 18 years,"Female head, no spouse","9,780","6,692",68.4,"3,088",31.6,"2,061",21.1,"1,027",10.5
+2016,Household composition,With children < 18 years,"Male head, no spouse","3,070","2,403",78.3,667,21.7,509,16.6,158,5.1
+2016,Household composition,With children < 18 years,Other household with child,519,404,77.8,115,22.2,  NA ,NA,  NA ,NA
+2016,Household composition,With no children < 18 years,,"88,001","78,792",89.5,"9,209",10.5,"4,911",5.6,"4,298",4.9
+2016,Household composition,With no children < 18 years,More than one adult,"52,353","48,162",92,"4,191",8,"2,411",4.6,"1,780",3.4
+2016,Household composition,With no children < 18 years,Women living alone,"19,649","16,910",86.1,"2,739",13.9,"1,420",7.2,"1,319",6.7
+2016,Household composition,With no children < 18 years,Men living alone,"15,999","13,719",85.7,"2,280",14.3,"1,080",6.8,"1,200",7.5
+2016,Household composition,With elderly,,"36,335","33,496",92.2,"2,839",7.8,"1,786",4.9,"1,053",2.9
+2016,Household composition,With elderly,Elderly living alone,"13,529","12,326",91.1,"1,203",8.9,733,5.4,470,3.5
+2016,Race/ethnicity of households,White non-Hispanic,,"84,087","76,271",90.7,"7,816",9.3,"4,591",5.5,"3,225",3.8
+2016,Race/ethnicity of households,Black non-Hispanic,,"15,940","12,346",77.5,"3,594",22.5,"2,048",12.8,"1,546",9.7
+2016,Race/ethnicity of households,Hispanic,,"17,054","13,907",81.5,"3,147",18.5,"2,152",12.7,995,5.8
+2016,Race/ethnicity of households,Other,,"9,319","8,325",89.3,994,10.7,622,6.7,372,4
+2016,Household income-to-poverty ratio,Under 1.00,,"13,929","8,598",61.7,"5,331",38.3,"2,920",21,"2,411",17.3
+2016,Household income-to-poverty ratio,Under 1.30,,"18,522","11,917",64.3,"6,605",35.7,"3,725",20.2,"2,880",15.5
+2016,Household income-to-poverty ratio,Under 1.85,,"29,025","19,860",68.4,"9,165",31.6,"5,319",18.3,"3,846",13.3
+2016,Household income-to-poverty ratio,1.85 and over,,"67,785","64,001",94.4,"3,784",5.6,"2,499",3.7,"1,285",1.9
+2016,Household income-to-poverty ratio,Income unknown,,"29,590","26,988",91.2,"2,602",8.8,"1,595",5.4,"1,007",3.4
+2016,Area of residence,Inside metropolitan area,,"108,118","95,315",88.2,"12,803",11.8,"7,868",7.2,"4,935",4.6
+2016,Area of residence,Inside metropolitan area,In principal cities,"37,176","31,879",85.8,"5,297",14.2,"3,117",8.3,"2,180",5.9
+2016,Area of residence,Inside metropolitan area,Not in principal cities,"54,399","49,222",90.5,"5,177",9.5,"3,286",6,"1,891",3.5
+2016,Area of residence,Outside metropolitan area,,"18,283","15,535",85,"2,748",15,"1,545",8.4,"1,203",6.6
+2016,Census geographic region,Northeast,,"22,669","20,217",89.2,"2,452",10.8,"1,594",7,858,3.8
+2016,Census geographic region,Midwest,,"27,307","23,976",87.8,"3,331",12.2,"1,871",6.9,"1,460",5.3
+2016,Census geographic region,South,,"47,966","41,476",86.5,"6,490",13.5,"3,890",8.1,"2,600",5.4
+2016,Census geographic region,West,,"28,458","25,180",88.5,"3,278",11.5,"2,057",7.2,"1,221",4.3
+2017,All households,,,"127,272","112,254",88.2,"15,018",11.8,"9,261",7.3,"5,757",4.5
+2017,Household composition,With children < 18 years,,"37,942","31,976",84.3,"5,966",15.7,"4,421",11.7,"1,545",4.1
+2017,Household composition,With children < 18 years,With children < 6 years,"16,200","13,551",83.6,"2,649",16.4,"2,008",12.4,641,4
+2017,Household composition,With children < 18 years,Married-couple families,"24,744","22,383",90.5,"2,361",9.5,"1,876",7.6,485,2
+2017,Household composition,With children < 18 years,"Female head, no spouse","9,561","6,663",69.7,"2,898",30.3,"2,038",21.3,860,9
+2017,Household composition,With children < 18 years,"Male head, no spouse","3,057","2,455",80.3,602,19.7,429,14,173,5.7
+2017,Household composition,With children < 18 years,Other household with child,581,476,81.9,105,18.1, NA ,NA, NA ,NA
+2017,Household composition,With no children < 18 years,,"89,330","80,278",89.9,"9,052",10.1,"4,840",5.4,"4,212",4.7
+2017,Household composition,With no children < 18 years,More than one adult,"53,107","48,997",92.3,"4,110",7.7,"2,357",4.4,"1,753",3.3
+2017,Household composition,With no children < 18 years,Women living alone,"19,963","17,195",86.1,"2,768",13.9,"1,362",6.8,"1,406",7
+2017,Household composition,With no children < 18 years,Men living alone,"16,260","14,087",86.6,"2,173",13.4,"1,120",6.9,"1,053",6.5
+2017,Household composition,With elderly,,"37,805","34,814",92.1,"2,991",7.9,"1,833",4.8,"1,158",3.1
+2017,Household composition,With elderly,Elderly living alone,"14,312","13,078",91.4,"1,234",8.6,710,5,524,3.7
+2017,Race/ethnicity of households,White non-Hispanic,,"84,548","77,083",91.2,"7,465",8.8,"4,389",5.2,"3,076",3.6
+2017,Race/ethnicity of households,Black non-Hispanic,,"16,358","12,799",78.2,"3,559",21.8,"2,164",13.2,"1,395",8.5
+2017,Race/ethnicity of households,Hispanic,,"17,197","14,108",82,"3,089",18,"2,137",12.4,952,5.5
+2017,Race/ethnicity of households,Other,,"9,169","8,263",90.1,906,9.9,572,6.2,334,3.6
+2017,Household income-to-poverty ratio,Under 1.00,,"12,871","8,135",63.2,"4,736",36.8,"2,641",20.5,"2,095",16.3
+2017,Household income-to-poverty ratio,Under 1.30,,"17,271","11,318",65.5,"5,953",34.5,"3,387",19.6,"2,566",14.9
+2017,Household income-to-poverty ratio,Under 1.85,,"27,012","18,699",69.2,"8,313",30.8,"4,901",18.1,"3,412",12.6
+2017,Household income-to-poverty ratio,1.85 and over,,"69,442","65,405",94.2,"4,037",5.8,"2,783",4,"1,254",1.8
+2017,Household income-to-poverty ratio,Income unknown,,"30,818","28,150",91.3,"2,668",8.7,"1,577",5.1,"1,091",3.5
+2017,Area of residence,Inside metropolitan area,,"108,977","96,401",88.5,"12,576",11.5,"7,807",7.2,"4,769",4.4
+2017,Area of residence,Inside metropolitan area,In principal cities,"37,365","32,199",86.2,"5,166",13.8,"3,132",8.4,"2,034",5.4
+2017,Area of residence,Inside metropolitan area,Not in principal cities,"55,330","50,152",90.6,"5,178",9.4,"3,204",5.8,"1,974",3.6
+2017,Area of residence,Outside metropolitan area,,"18,295","15,853",86.7,"2,442",13.3,"1,454",7.9,988,5.4
+2017,Census geographic region,Northeast,,"22,520","20,280",90.1,"2,240",9.9,"1,486",6.6,754,3.3
+2017,Census geographic region,Midwest,,"27,581","24,346",88.3,"3,235",11.7,"1,909",6.9,"1,326",4.8
+2017,Census geographic region,South,,"48,281","41,817",86.6,"6,464",13.4,"3,995",8.3,"2,469",5.1
+2017,Census geographic region,West,,"28,890","25,811",89.3,"3,079",10.7,"1,871",6.5,"1,208",4.2
+2018,All households,,,"129,245","114,934",88.9,"14,311",11.1,"8,730",6.8,"5,581",4.3
+2018,Household composition,With children < 18 years,,"37,612","32,369",86.1,"5,243",13.9,"3,750",9.9,"1,493",4
+2018,Household composition,With children < 18 years,With children < 6 years,"16,306","13,967",85.7,"2,339",14.3,"1,720",10.5,619,3.8
+2018,Household composition,With children < 18 years,Married-couple families,"24,598","22,558",91.7,"2,040",8.3,"1,633",6.6,407,1.7
+2018,Household composition,With children < 18 years,"Female head, no spouse","9,349","6,753",72.2,"2,596",27.8,"1,715",18.4,881,9.4
+2018,Household composition,With children < 18 years,"Male head, no spouse","3,238","2,722",84.1,516,15.9,346,10.6,170,5.3
+2018,Household composition,With children < 18 years,Other household with child,427,337,78.9,90,21.1, NA ,NA, NA ,NA
+2018,Household composition,With no children < 18 years,,"91,633","82,565",90.1,"9,068",9.9,"4,980",5.4,"4,088",4.5
+2018,Household composition,With no children < 18 years,More than one adult,"54,274","50,222",92.5,"4,052",7.5,"2,413",4.5,"1,639",3
+2018,Household composition,With no children < 18 years,Women living alone,"20,225","17,352",85.8,"2,873",14.2,"1,552",7.7,"1,321",6.5
+2018,Household composition,With no children < 18 years,Men living alone,"17,134","14,991",87.5,"2,143",12.5,"1,015",5.9,"1,128",6.6
+2018,Household composition,With elderly,,"39,125","36,191",92.5,"2,934",7.5,"1,918",4.9,"1,016",2.6
+2018,Household composition,With elderly,Elderly living alone,"14,988","13,652",91.1,"1,336",8.9,824,5.5,512,3.4
+2018,Race/ethnicity of households,White non-Hispanic,,"84,975","78,106",91.9,"6,869",8.1,"4,109",4.9,"2,760",3.2
+2018,Race/ethnicity of households,Black non-Hispanic,,"16,613","13,087",78.8,"3,526",21.2,"2,021",12.1,"1,505",9.1
+2018,Race/ethnicity of households,Hispanic,,"18,101","15,164",83.8,"2,937",16.2,"2,018",11.1,919,5.1
+2018,Race/ethnicity of households,Other,,"9,556","8,577",89.8,979,10.2,582,6,397,4.2
+2018,Household income-to-poverty ratio,Under 1.00,,"12,140","7,855",64.7,"4,285",35.3,"2,356",19.4,"1,929",15.9
+2018,Household income-to-poverty ratio,Under 1.30,,"17,061","11,419",66.9,"5,642",33.1,"3,186",18.7,"2,456",14.4
+2018,Household income-to-poverty ratio,Under 1.85,,"26,836","19,033",70.9,"7,803",29.1,"4,584",17.1,"3,219",12
+2018,Household income-to-poverty ratio,1.85 and over,,"70,795","66,964",94.6,"3,831",5.4,"2,517",3.5,"1,314",1.9
+2018,Household income-to-poverty ratio,Income unknown,,"31,614","28,937",91.5,"2,677",8.5,"1,629",5.2,"1,048",3.3
+2018,Area of residence,Inside metropolitan area,,"111,051","99,053",89.2,"11,998",10.8,"7,299",6.6,"4,699",4.2
+2018,Area of residence,Inside metropolitan area,In principal cities,"37,881","32,877",86.8,"5,004",13.2,"2,984",7.9,"2,020",5.3
+2018,Area of residence,Inside metropolitan area,Not in principal cities,"55,847","50,855",91.1,"4,992",8.9,"3,083",5.5,"1,909",3.4
+2018,Area of residence,Outside metropolitan area,,"18,194","15,882",87.3,"2,312",12.7,"1,430",7.9,882,4.8
+2018,Census geographic region,Northeast,,"22,517","20,227",89.8,"2,290",10.2,"1,341",6,949,4.2
+2018,Census geographic region,Midwest,,"27,791","24,781",89.2,"3,010",10.8,"1,914",6.9,"1,096",3.9
+2018,Census geographic region,South,,"49,814","43,829",88,"5,985",12,"3,582",7.2,"2,403",4.8
+2018,Census geographic region,West,,"29,123","26,098",89.6,"3,025",10.4,"1,892",6.5,"1,133",3.9
+2019,All households,,,"129,621","115,959",89.5,"13,662",10.5,"8,340",6.4,"5,322",4.1
+2019,Household composition,With children < 18 years,,"37,614","32,480",86.4,"5,134",13.6,"3,677",9.8,"1,457",3.9
+2019,Household composition,With children < 18 years,With children < 6 years,"16,115","13,783",85.5,"2,332",14.5,"1,736",10.8,596,3.7
+2019,Household composition,With children < 18 years,Married-couple families,"24,382","22,543",92.5,"1,839",7.5,"1,494",6.1,345,1.4
+2019,Household composition,With children < 18 years,"Female head, no spouse","9,349","6,663",71.3,"2,686",28.7,"1,790",19.1,896,9.6
+2019,Household composition,With children < 18 years,"Male head, no spouse","3,311","2,802",84.6,509,15.4,313,9.5,196,5.9
+2019,Household composition,With children < 18 years,Other household with child,572,472,82.5,100,17.5, NA ,NA, NA ,NA
+2019,Household composition,With no children < 18 years,,"92,007","83,479",90.7,"8,528",9.3,"4,663",5.1,"3,865",4.2
+2019,Household composition,With no children < 18 years,More than one adult,"54,420","50,762",93.3,"3,658",6.7,"2,185",4,"1,473",2.7
+2019,Household composition,With no children < 18 years,Women living alone,"20,886","18,161",87,"2,725",13,"1,386",6.6,"1,339",6.4
+2019,Household composition,With no children < 18 years,Men living alone,"16,701","14,556",87.2,"2,145",12.8,"1,092",6.5,"1,053",6.3
+2019,Household composition,With elderly,,"40,220","37,318",92.8,"2,902",7.2,"1,842",4.6,"1,060",2.6
+2019,Household composition,With elderly,Elderly living alone,"15,329","13,996",91.3,"1,333",8.7,801,5.2,532,3.5
+2019,Race/ethnicity of households,White non-Hispanic,,"85,196","78,438",92.1,"6,758",7.9,"3,966",4.7,"2,792",3.3
+2019,Race/ethnicity of households,Black non-Hispanic,,"16,504","13,356",80.9,"3,148",19.1,"1,891",11.5,"1,257",7.6
+2019,Race/ethnicity of households,Hispanic,,"18,035","15,216",84.4,"2,819",15.6,"1,937",10.7,882,4.9
+2019,Race/ethnicity of households,Other,,"9,886","8,949",90.5,937,9.5,546,5.5,391,4
+2019,Household income-to-poverty ratio,Under 1.00,,"11,208","7,301",65.1,"3,907",34.9,"2,167",19.3,"1,740",15.5
+2019,Household income-to-poverty ratio,Under 1.30,,"15,848","10,615",67,"5,233",33,"3,002",18.9,"2,231",14.1
+2019,Household income-to-poverty ratio,Under 1.85,,"26,604","19,248",72.4,"7,356",27.6,"4,384",16.5,"2,972",11.2
+2019,Household income-to-poverty ratio,1.85 and over,,"70,457","66,880",94.9,"3,577",5.1,"2,387",3.4,"1,190",1.7
+2019,Household income-to-poverty ratio,Income unknown,,"32,560","29,832",91.6,"2,728",8.4,"1,569",4.8,"1,159",3.6
+2019,Area of residence,Inside metropolitan area,,"111,547","100,071",89.7,"11,476",10.3,"6,990",6.3,"4,486",4
+2019,Area of residence,Inside metropolitan area,In principal cities,"38,411","33,662",87.6,"4,749",12.4,"2,875",7.5,"1,874",4.9
+2019,Area of residence,Inside metropolitan area,Not in principal cities,"55,517","50,923",91.7,"4,594",8.3,"2,867",5.2,"1,727",3.1
+2019,Area of residence,Outside metropolitan area,,"18,073","15,887",87.9,"2,186",12.1,"1,350",7.5,836,4.6
+2019,Census geographic region,Northeast,,"22,293","20,154",90.4,"2,139",9.6,"1,303",5.8,836,3.8
+2019,Census geographic region,Midwest,,"27,894","24,956",89.5,"2,938",10.5,"1,778",6.4,"1,160",4.2
+2019,Census geographic region,South,,"50,136","44,527",88.8,"5,609",11.2,"3,352",6.7,"2,257",4.5
+2019,Census geographic region,West,,"29,298","26,322",89.8,"2,976",10.2,"1,907",6.5,"1,069",3.6
+2020,All households,,,"130,459","116,705",89.5,"13,754",10.5,"8,613",6.6,"5,141",3.9
+2020,Household composition,With children < 18 years,,"37,903","32,280",85.2,"5,623",14.8,"4,166",11,"1,457",3.8
+2020,Household composition,With children < 18 years,With children < 6 years,"16,119","13,655",84.7,"2,464",15.3,"1,927",12,537,3.3
+2020,Household composition,With children < 18 years,Married-couple families,"24,420","22,091",90.5,"2,329",9.5,"1,869",7.6,460,1.9
+2020,Household composition,With children < 18 years,"Female head, no spouse","9,774","7,070",72.3,"2,704",27.7,"1,905",19.5,799,8.2
+2020,Household composition,With children < 18 years,"Male head, no spouse","3,296","2,758",83.7,538,16.3,357,10.8,181,5.5
+2020,Household composition,With children < 18 years,Other household with child,413,362,87.7,51,12.3, NA ,NA, NA ,NA
+2020,Household composition,With no children < 18 years,,"92,556","84,425",91.2,"8,131",8.8,"4,447",4.8,"3,684",4
+2020,Household composition,With no children < 18 years,More than one adult,"54,662","50,775",92.9,"3,887",7.1,"2,247",4.1,"1,640",3
+2020,Household composition,With no children < 18 years,Women living alone,"20,881","18,579",89,"2,302",11,"1,229",5.9,"1,073",5.1
+2020,Household composition,With no children < 18 years,Men living alone,"17,013","15,072",88.6,"1,941",11.4,970,5.7,971,5.7
+2020,Household composition,With elderly,,"41,050","38,218",93.1,"2,832",6.9,"1,797",4.4,"1,035",2.5
+2020,Household composition,With elderly,Elderly living alone,"15,566","14,280",91.7,"1,286",8.3,755,4.9,531,3.4
+2020,Race/ethnicity of households,White non-Hispanic,,"85,466","79,387",92.9,"6,079",7.1,"3,547",4.1,"2,532",3
+2020,Race/ethnicity of households,Black non-Hispanic,,"16,686","13,058",78.3,"3,628",21.7,"2,295",13.7,"1,333",8
+2020,Race/ethnicity of households,Hispanic,,"18,543","15,359",82.8,"3,184",17.2,"2,263",12.2,921,5
+2020,Race/ethnicity of households,Other,,"9,764","8,903",91.2,861,8.8,507,5.2,354,3.6
+2020,Household income-to-poverty ratio,Under 1.00,,"10,514","6,800",64.7,"3,714",35.3,"2,203",20.9,"1,511",14.4
+2020,Household income-to-poverty ratio,Under 1.30,,"16,474","11,021",66.9,"5,453",33.1,"3,307",20.1,"2,146",13
+2020,Household income-to-poverty ratio,Under 1.85,,"25,649","18,305",71.4,"7,344",28.6,"4,582",17.8,"2,762",10.8
+2020,Household income-to-poverty ratio,1.85 and over,,"70,710","67,263",95.1,"3,447",4.9,"2,283",3.3,"1,164",1.6
+2020,Household income-to-poverty ratio,Income unknown,,"34,100","31,138",91.3,"2,962",8.7,"1,748",5.1,"1,214",3.6
+2020,Area of residence,Inside metropolitan area,,"112,150","100,523",89.6,"11,627",10.4,"7,319",6.6,"4,308",3.8
+2020,Area of residence,Inside metropolitan area,In principal cities,"38,788","33,875",87.3,"4,913",12.7,"2,974",7.7,"1,939",5
+2020,Area of residence,Inside metropolitan area,Not in principal cities,"56,007","51,059",91.2,"4,948",8.8,"3,263",5.8,"1,685",3
+2020,Area of residence,Outside metropolitan area,,"18,308","16,181",88.4,"2,127",11.6,"1,294",7.1,833,4.5
+2020,Census geographic region,Northeast,,"22,247","20,177",90.7,"2,070",9.3,"1,337",6,733,3.3
+2020,Census geographic region,Midwest,,"27,757","25,114",90.5,"2,643",9.5,"1,416",5.1,"1,227",4.4
+2020,Census geographic region,South,,"50,770","44,536",87.7,"6,234",12.3,"4,055",8,"2,179",4.3
+2020,Census geographic region,West,,"29,685","26,878",90.5,"2,807",9.5,"1,805",6.1,"1,002",3.4
+2021,All households,,,132043,118533,89.8,13510,10.2,8428,6.4,5082,3.8
+2021,Household composition,With children < 18 years,,36765,32170,87.5,4595,12.5,3277,8.9,1318,3.6
+2021,Household composition,With children < 18 years,With children < 6 years,15406,13418,87.1,1988,12.9,1473,9.6,515,3.3
+2021,Household composition,With children < 18 years,Married-couple families,23849,22088,92.6,1761,7.4,1344,5.7,417,1.7
+2021,Household composition,With children < 18 years,"Female head, no spouse",9197,6965,75.7,2232,24.3,1497,16.3,735,8
+2021,Household composition,With children < 18 years,"Male head, no spouse",3194,2678,83.8,516,16.2,374,11.8,142,4.4
+2021,Household composition,With children < 18 years,Other household with child,524,438,83.6,86,16.4,NA,NA,NA,NA
+2021,Household composition,With no children < 18 years,,95278,86364,90.6,8914,9.4,5150,5.4,3764,4
+2021,Household composition,With no children < 18 years,More than one adult,56113,52215,93.1,3898,6.9,2458,4.3,1440,2.6
+2021,Household composition,With no children < 18 years,Women living alone,21641,18781,86.8,2860,13.2,1568,7.2,1292,6
+2021,Household composition,With no children < 18 years,Men living alone,17524,15367,87.7,2157,12.3,1125,6.4,1032,5.9
+2021,Household composition,With elderly,,42501,39473,92.9,3028,7.1,1858,4.3,1170,2.8
+2021,Household composition,With elderly,Elderly living alone,16056,14530,90.5,1526,9.5,798,5,728,4.5
+2021,Race/ethnicity of households,White non-Hispanic,,85866,79843,93,6023,7,3754,4.4,2269,2.6
+2021,Race/ethnicity of households,Black non-Hispanic,,16951,13597,80.2,3354,19.8,2019,11.9,1335,7.9
+2021,Race/ethnicity of households,Hispanic,,19082,15983,83.8,3099,16.2,2059,10.7,1040,5.5
+2021,Race/ethnicity of households,Other,,10144,9112,89.8,1032,10.2,595,5.9,437,4.3
+2021,Household income-to-poverty ratio,Under 1.00,,11920,8092,67.9,3828,32.1,2187,18.3,1641,13.8
+2021,Household income-to-poverty ratio,Under 1.30,,16994,11722,69,5272,31,3127,18.4,2145,12.6
+2021,Household income-to-poverty ratio,Under 1.85,,26506,19470,73.5,7036,26.5,4320,16.3,2716,10.2
+2021,Household income-to-poverty ratio,1.85 and over,,71721,68135,95,3586,5,2328,3.2,1258,1.8
+2021,Household income-to-poverty ratio,Income unknown,,33816,30929,91.5,2887,8.5,1779,5.2,1108,3.3
+2021,Area of residence,Inside metropolitan area,,113842,102295,89.9,11547,10.1,7219,6.3,4328,3.8
+2021,Area of residence,Inside metropolitan area,In principal cities,38360,33684,87.8,4676,12.2,2899,7.6,1777,4.6
+2021,Area of residence,Inside metropolitan area,Not in principal cities,58118,53029,91.2,5089,8.8,3228,5.6,1861,3.2
+2021,Area of residence,Outside metropolitan area,,18201,16240,89.2,1961,10.8,1208,6.7,753,4.1
+2021,Census geographic region,Northeast,,22516,20525,91.2,1991,8.8,1263,5.6,728,3.2
+2021,Census geographic region,Midwest,,28301,25505,90.1,2796,9.9,1737,6.2,1059,3.7
+2021,Census geographic region,South,,51183,45373,88.6,5810,11.4,3605,7.1,2205,4.3
+2021,Census geographic region,West,,30044,27132,90.3,2912,9.7,1822,6.1,1090,3.6
